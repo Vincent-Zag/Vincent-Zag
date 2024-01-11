@@ -19,7 +19,7 @@
 ### :hatching_chick: About Me :
 
 
-I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :muscle: I’m working on contributing to frontend and backend for building web applications as well as ETL.
 
